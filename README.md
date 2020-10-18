@@ -2,36 +2,40 @@
 
 # Preview
 
-Link :-
-
-## Desktop View
+Link :- https://corner-tree-frontend-assignmen.web.app/
 
 ### 1.Home
 
-![preview image](./assets/images/1.png)
+![preview image](./assets/images/1.jpg)
 
-### 2. Search
+### 2. Job Seeker
 
-![preview image](./assets/images/2.png)
-![preview image](./assets/images/3.png)
+![preview image](./assets/images/2.jpg)
+![preview image](./assets/images/3.jpg)
 
-### 3. Post Job
+### 3. Recruiter
 
-![preview image](./assets/images/4.png)
+![preview image](./assets/images/4.jpg)
+![preview image](./assets/images/5.jpg)
 
-### 4. Dashboard
+### 4. Sign Up
 
-![preview image](./assets/images/5.png)
+![preview image](./assets/images/6.jpg)
 
-# Various Functionality
+### OTP
 
-1.
-2.
-3.
+![preview image](./assets/images/7.jpg)
+![preview image](./assets/images/8.jpg)
+![preview image](./assets/images/9.jpg)
+![preview image](./assets/images/10.jpg)
+
+### Search
+
+![preview image](./assets/images/11.jpg)
 
 # Techstack
 
-### HTML, CSS, React
+### HTML, SCSS, React
 
 # Instructions to install
 
