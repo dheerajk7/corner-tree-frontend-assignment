@@ -1,3 +1,14 @@
 .App {
-  text-align: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  .blank-space {
+    height: 65px;
+    width: 100%;
+  }
 }
+
+@import '../styles/navbar.scss';
+@import '../styles/job.scss';
+@import '../styles/ShowMessage.scss';
